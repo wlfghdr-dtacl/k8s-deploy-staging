@@ -23,9 +23,9 @@
             "upperWarning" : 600.0
         },
 	{
-    		"timeseriesId" : "com.dynatrace.builtin:servicemethod.responsetime",
+		"timeseriesId" : "com.dynatrace.builtin:servicemethod.responsetime",
     		"aggregation" : "avg",
-    		"entityIds" : "",
+    		"entityIds" : "SERVICE_METHOD-307689CDF87D459F",
     		"upperSevere" : 800.0,
     		"upperWarning" : 600.0
 	}
